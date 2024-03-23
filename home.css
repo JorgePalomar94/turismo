@@ -1,0 +1,14 @@
+*
+body{
+background-color: #2D6F0A;
+}
+
+nav{
+    background-color: #0A446F ;
+}
+
+ul{
+    color: black;
+    float: right;
+    list-style: none;
+}
